@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "414258169889",
+    "project_id": "mom-s-recipes-b3e5b",
+    "storage_bucket": "mom-s-recipes-b3e5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414258169889:android:8c55797c931710b47fbb60",
+        "android_client_info": {
+          "package_name": "com.example.momsrecipes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414258169889-d66c160cgg8el6a9eihlcvtumhlsv7hl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDisAZII0VJjD9pToKQ6_tCFN-lV-76Vak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414258169889-d66c160cgg8el6a9eihlcvtumhlsv7hl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
